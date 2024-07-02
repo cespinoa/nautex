@@ -3,3 +3,6 @@
 
 # Excluir todos los archivos .docx
 *.docx
+
+# Ignorar archivos que comienzan con ~
+~*
