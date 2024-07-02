@@ -1,2 +1,2 @@
 # nautex
-Nautilus extensios
+Nautilus extensions
