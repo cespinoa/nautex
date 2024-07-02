@@ -1,0 +1,5 @@
+# Excluir todos los archivos .odt
+*.odt
+
+# Excluir todos los archivos .docx
+*.docx
